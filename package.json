@@ -1,0 +1,30 @@
+{
+  "name": "gmls",
+  "version": "1.0.0",
+  "description": "Google Maps Location Sharing",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xTCry/GMLS.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "location",
+    "sharing"
+  ],
+  "author": "xTCry (Vladislav Kh)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xTCry/GMLS/issues"
+  },
+  "homepage": "https://github.com/xTCry/GMLS#readme",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}

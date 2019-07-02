@@ -1,0 +1,16 @@
+{
+  "name": "gmls-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intable.js",
+  "scripts": {
+    "start": "node intable"
+  },
+  "author": "xTCry (Vladislav Kh)",
+  "license": "ISC",
+  "dependencies": {
+    "@lvchengbin/cli-table": "0.0.0",
+    "clear": "^0.1.0",
+    "moment": "^2.24.0"
+  }
+}
