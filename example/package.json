@@ -11,6 +11,6 @@
   "dependencies": {
     "@lvchengbin/cli-table": "0.0.0",
     "clear": "^0.1.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
